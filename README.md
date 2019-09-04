@@ -1,2 +1,6 @@
-# repro
-courso de reproducibilidad
+# Reproducibilidad científica
+
+## Definiciones
+
+- Reproducibilidad: *italics*
+- Replicabilidad: **bold**
